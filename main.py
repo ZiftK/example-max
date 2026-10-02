@@ -14,3 +14,5 @@ def main():
     pass
     print(a/b)
 
+    print("Estos son los resultados y el programa ha terminado")
+
