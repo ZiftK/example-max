@@ -1,7 +1,11 @@
 
 # codigo en python
 def main():
-    #aqui va el codigo
-    print("A"*1000)
+    a = input("Primer numero> ")
+    a = int(a)
+    b = input("Segundo numero> ")
+    b = int(b)
+
+    print(a + b)
     pass
 
