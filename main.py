@@ -12,4 +12,5 @@ def main():
      
     print(a - b)
     pass
+    print(a/b)
 
